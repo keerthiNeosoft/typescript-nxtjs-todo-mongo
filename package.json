@@ -1,0 +1,32 @@
+{
+  "name": "nextjs-course",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.11.3",
+    "@emotion/styled": "^11.11.0",
+    "@mui/icons-material": "^5.15.8",
+    "@mui/material": "^5.15.7",
+    "@types/jest": "^29.5.12",
+    "bcryptjs": "^2.4.3",
+    "mongodb": "^3.6.4",
+    "next": "^12.2.3",
+    "next-auth": "^3.29.10",
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
+  },
+  "devDependencies": {
+    "@types/bcryptjs": "^2.4.6",
+    "@types/node": "^20.11.16",
+    "@types/react": "^18.2.55",
+    "@types/react-dom": "^18.2.18",
+    "eslint": "^8",
+    "eslint-config-next": "14.0.4",
+    "typescript": "^5.3.3"
+  }
+}
